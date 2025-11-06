@@ -1,0 +1,4 @@
+#Ignorar archivos temporales.
+.DS_Store
+#Ignorar configuracion del editor.
+.vscode/
